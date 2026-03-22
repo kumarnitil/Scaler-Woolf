@@ -1,0 +1,13 @@
+# Topics to be covered 
+- Introduction to the Beginner Module
+- Basic Arithmetic Operations
+- Data Types
+- Data Types + Reading Inputs
+- Operators
+- if-Else
+- Lab sessions on If-Else
+- Loop
+- Lab Sessions on Loop
+- More Problems on Loops and Patterns
+- Lab sessions on Loops and Patterns
+- Contests.
