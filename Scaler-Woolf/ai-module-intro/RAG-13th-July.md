@@ -24,3 +24,5 @@ The retrieval system fetches the most relevant passages from a knowledge base (u
 Correct answer
 
 The retrieved documents are appended (or prepended) as context in the prompt together with the user's question before being sent to the language model.
+- **Notebook LM Citation System** - A student using NotebookLM sees the notation [2] next to a specific claim in an answer. When she clicks [2], what does NotebookLM do? - It navigates to the exact sentence in the exact uploaded source that the claim was drawn from.
+- **Retrieval Quality Degradation at Scale** - A researcher adds 40 sources to a NotebookLM notebook and notices that synthesis questions spanning many sources sometimes omit relevant content she knows exists in some of the later-added sources. What does this observation illustrate? - Retrieval quality can degrade as the knowledge base grows — a real trade-off in RAG systems at scale
